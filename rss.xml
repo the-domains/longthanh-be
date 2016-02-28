@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[LongThanh.be]]></title>
-        <description><![CDATA[LongThanh.be]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Chinees meeneem restaurant]]></title>
+        <description><![CDATA[Chinees meeneem restaurant]]></description>
+        <link>https://thegrid.ai/longthanh-be/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 08:18:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 08:25:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/longthanh-be/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd519788-b617-45e0-9844-83e32125699e.jpg">]]></description>
+            <link>https://thegrid.ai/longthanh-be/02b6f94b-195a-4862-85e0-42e5df7bd773/index.html</link>
+            <guid isPermaLink="false">02b6f94b-195a-4862-85e0-42e5df7bd773</guid>
+            <pubDate>Sun, 28 Feb 2016 08:24:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Long Thanh Chinees meeneemrestaurant</p>]]></description>
-            <link>undefinedc9d2bbe1-185b-419a-8d65-9bb18aad7966/index.html</link>
+            <link>https://thegrid.ai/longthanh-be/c9d2bbe1-185b-419a-8d65-9bb18aad7966/index.html</link>
             <guid isPermaLink="false">c9d2bbe1-185b-419a-8d65-9bb18aad7966</guid>
             <pubDate>Sun, 28 Feb 2016 08:18:47 GMT</pubDate>
         </item>
