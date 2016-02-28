@@ -1,7 +1,7 @@
 name: LongThanh.be
 favicon: null
-layout_spectrum: 0.5368993047159165
-typography_spectrum: 0.8089577569626272
+layout_spectrum: 0.0509
+typography_spectrum: 0.21998
 title: Chinees meeneem restaurant
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#f7ffff'
+    - '#3f4c54'
+    - '#a19692'
+    - '#280604'
+    - '#a42402'
   brandStrength: 0.9962362695951015
   lightness: 0.35604877257719636
   saturation: 0.3535478920675814
